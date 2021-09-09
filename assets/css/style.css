@@ -441,7 +441,7 @@ body .mb_100 {
 
 /* button */
 .btn-primary {
-  background-color: #D30015;
+  background-color: green; /** #D30015; **/
   background-image: none;
   border-color: #D30015; }
   .btn-primary.active {
